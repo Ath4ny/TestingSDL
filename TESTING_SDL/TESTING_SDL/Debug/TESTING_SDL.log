@@ -1,9 +1,2 @@
-﻿  CApp.cpp
-  CApp_OnCleanup.cpp
-  CApp_OnEvent.cpp
-  CApp_OnInit.cpp
-  CApp_OnLoop.cpp
-  CApp_OnRender.cpp
-  Создание кода...
-C:\Users\arefe\source\repos\TESTING_SDL\TESTING_SDL\CApp_OnInit.cpp(14): warning C4715: CApp::OnInit: значение возвращается не при всех путях выполнения
+﻿  CApp_OnRender.cpp
   TESTING_SDL.vcxproj -> C:\Users\arefe\source\repos\TESTING_SDL\Debug\TESTING_SDL.exe

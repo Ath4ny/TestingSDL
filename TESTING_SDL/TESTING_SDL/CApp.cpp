@@ -2,6 +2,7 @@
 
 CApp::CApp() {
 	win = NULL;
+	ren = NULL;
 
 	Running = true;
 }
